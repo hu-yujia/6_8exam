@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/do/high_5/6_8exam/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/do/high_5/6_8exam/app/src/main/res/layout/activity_xq.xml" value="0.10144927536231885" />
+        <entry key="..\:/do/high_5/6_8exam/app/src/main/res/layout/fragment_blank.xml" value="0.29270833333333335" />
+        <entry key="..\:/do/high_5/6_8exam/app/src/main/res/layout/fragment_blank2.xml" value="0.18" />
+        <entry key="..\:/do/high_5/6_8exam/app/src/main/res/layout/fragment_blank3.xml" value="0.24230072463768115" />
+        <entry key="..\:/do/high_5/6_8exam/app/src/main/res/layout/item_goods.xml" value="0.18272425249169436" />
+        <entry key="..\:/do/high_5/6_8exam/app/src/main/res/layout/item_goods_two.xml" value="0.25" />
+        <entry key="..\:/do/high_5/6_8exam/app/src/main/res/menu/menu.xml" value="0.29270833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
